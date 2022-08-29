@@ -1,0 +1,10 @@
+01   Tommy       9000000     Chennai       tomche@fis
+03   Dina        6000000     Pune          dinpun@fis
+04   Samreeen    9000000     Chennai       samche@fis
+05   Leena       6000000     Kolkata       lenkol@fis
+06   Reena       5000000     Ooty          renoot@fis
+07   Shamaila    6000000     Mumbai        shamum@fis
+07   Lisa        8000000     Banglore      lisban@fis
+08   Farah       5000000     Chandigarh    farcha@fis
+09   Tara        9000000     Jaipur        tarjai@fis
+10   Loren       9000000     Indore        lorind@fis

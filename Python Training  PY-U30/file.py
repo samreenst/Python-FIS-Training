@@ -1,0 +1,10 @@
+f = open('text.txt','r')
+line = f.read(20)
+print(type(line))
+print(line)
+line1=f.read(10)
+print(line1)
+print(len(line))
+a= line[13:18]
+print(a)
+f.close()
